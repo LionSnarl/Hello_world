@@ -1,0 +1,23 @@
+.App{
+  text-align: center,
+}
+
+#good{
+  text-align: center;
+  background-color: pink;
+}
+
+#doodlebot{
+  text-align: center;
+  background-color: yellow;
+}
+
+#bad {
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+
+#input {
+  text-align: center;
+}
